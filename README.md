@@ -1,4 +1,4 @@
 junit-tutorial
 ==============
 
-A tutorial of JUnit
+A junit tutorial project in the "WEB+DB PRESS vol.69".
